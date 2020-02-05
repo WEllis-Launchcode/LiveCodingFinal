@@ -1,0 +1,11 @@
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.0\LiveCodingFinal.exe
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.0\LiveCodingFinal.deps.json
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.0\LiveCodingFinal.runtimeconfig.json
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.0\LiveCodingFinal.runtimeconfig.dev.json
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.0\LiveCodingFinal.dll
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.0\LiveCodingFinal.pdb
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\obj\Debug\netcoreapp3.0\LiveCodingFinal.csprojAssemblyReference.cache
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\obj\Debug\netcoreapp3.0\LiveCodingFinal.AssemblyInfoInputs.cache
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\obj\Debug\netcoreapp3.0\LiveCodingFinal.AssemblyInfo.cs
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\obj\Debug\netcoreapp3.0\LiveCodingFinal.dll
+C:\Users\Welli\lc101\LiveCodingFinal\LiveCodingFinal\obj\Debug\netcoreapp3.0\LiveCodingFinal.pdb
